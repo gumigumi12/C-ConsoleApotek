@@ -1,0 +1,4 @@
+E:\Belajar C#\Mandiri3112017\Mandiri3112017\bin\Debug\Mandiri3112017.exe
+E:\Belajar C#\Mandiri3112017\Mandiri3112017\bin\Debug\Mandiri3112017.pdb
+E:\Belajar C#\Mandiri3112017\Mandiri3112017\obj\x86\Debug\Mandiri3112017.exe
+E:\Belajar C#\Mandiri3112017\Mandiri3112017\obj\x86\Debug\Mandiri3112017.pdb
